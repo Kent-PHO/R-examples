@@ -1,4 +1,4 @@
-## R examples produced by Kent Public Health Observatory
+## R examples
 
 Welcome to one of our github pages. This site is currently in development.
 
